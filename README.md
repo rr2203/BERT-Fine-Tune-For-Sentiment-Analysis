@@ -10,5 +10,3 @@ Fine-tuned the pre-trained BERT model on the IMDB movie reviews dataset for sent
 - Utilized PyTorch and TorchText libraries to preprocess and prepare the IMDB dataset for training, validation, and testing of the sentiment analysis model.
 - Developed a deep learning model using pre-trained BERT and bidirectional GRU for sentiment analysis on the IMDB dataset.
 - Achieved an accuracy of 91.07% in just 2 epochs.
-
-Ref: https://chinmayhegde.github.io/dl-notes/
